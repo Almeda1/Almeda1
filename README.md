@@ -114,12 +114,10 @@ An emergency response platform designed to provide fast communication and assist
 - Tailwind CSS
 - Typescript
 
-**Backend**
-- Node.js
-- Express.js
-
-**Database**
-- Firebase / PostgreSQL
+**Styling**
+- Tailwind CSS
+- shadcn/ui components
+- Lucide Icons
 
 **Tools & Services**
 - APIs
