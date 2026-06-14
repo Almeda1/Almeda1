@@ -46,11 +46,9 @@ A premium e-commerce platform built for luxury watch enthusiasts, providing a mo
 - Typescript
 
 **Backend**
-- Node.js
-- Express.js
-
-**Database**
-- Supabase
+ - Supabase
+ - PostgreSQL
+ - Context API
 
 **Tools & Services**
 - Git
@@ -140,6 +138,10 @@ An emergency response platform designed to provide fast communication and assist
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp)
+
+![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=cplusplus)
+
 
 ## Frontend Development
 
@@ -160,14 +162,12 @@ An emergency response platform designed to provide fast communication and assist
 
 ![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot)
-
 
 ## Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase)
 
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
 
@@ -177,6 +177,12 @@ An emergency response platform designed to provide fast communication and assist
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
+
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
+
+![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite)
 
 ![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
 
